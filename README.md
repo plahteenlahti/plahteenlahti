@@ -4,6 +4,6 @@ I'm Perttu Lähteenlahti (the incredibly long and hard to read word with umlauts
 
 - I've competed in over 70 hackathons, I've won 40 of those
 - I mostly work with React, React Native, SwiftUI, AWS, CSS and __passion__
-- I'm building [Nyxo](https://nyxo.app) a personalized sleep coaching app
+- I'm building [Nyxo](https://nyxo.app?utm_source=github) a personalized sleep coaching app
 - I do consultancy work as well. Ping me if you need help with React, React Native, SwiftUI or design.
-- You can read the stuff I've written at [lahteenlahti.com](https://lahteenlahti.com)
+- You can read the stuff I've written at [lahteenlahti.com?utm_source=github](https://lahteenlahti.com)
