@@ -7,3 +7,10 @@ I'm Perttu Lähteenlahti (the incredibly long and hard to read word with umlauts
 - I'm building [Nyxo](https://nyxo.app?utm_source=github) a personalized sleep coaching app
 - I do consultancy work as well. Ping me if you need help with React, React Native, SwiftUI or design.
 - You can read the stuff I've written at [lahteenlahti.com](https://lahteenlahti.com?utm_source=github)
+
+### Projects I'm actively working on
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**Nyxo App**](https://github.com/hello-nyxo/nyxo-app) | [![GitHub issues](https://img.shields.io/github/issues/hello-nyxo/nyxo-app?color=green&logo=github&style=flat)](https://github.com/hello-nyxo/nyxo-app/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/hello-nyxo/nyxo-app?style=flat&logo=github)](https://github.com/hello-nyxo/nyxo-app/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/hello-nyxo/nyxo-app?style=flat&color=critical&logo=github)](https://github.com/hello-nyxo/nyxo-app/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**Nyxo Website**](https://github.com/hello-nyxo/nyxo-website) | [![GitHub issues](https://img.shields.io/github/issues/hello-nyxo/nyxo-website?color=green&logo=github&style=flat)](https://github.com/hello-nyxo/nyxo-website/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/hello-nyxo/nyxo-website?style=flat&logo=github)](https://github.com/hello-nyxo/nyxo-website/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/hello-nyxo/nyxo-website?style=flat&color=critical&logo=github)](https://github.com/hello-nyxo/nyxo-website/pulls?q=is%3Apr+is%3Aclosed)   |
