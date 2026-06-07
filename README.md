@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Perttu
 
 
-I'm a hacker and an app developer, designing and building web and mobile apps. When I'm not coding, I regularly writes and gives talks about app development, monetization, and design. 
+I'm a hacker and an app developer, designing and building web and mobile apps. When I'm not coding, I regularly write and give talks about app development, monetization, and design. 
 
 ## 💼 What I’m up to at work
 *Working at [RevenueCat](https://revenuecat.com) where I focus on developer experience and helping app builders succeed with in-app subscriptions across iOS, Android & Web.*  
